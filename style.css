@@ -1,0 +1,75 @@
+h1{
+    font-weight: unset;
+    font-size: 45px;
+    text-align: center;
+    color: #608dc7;
+}
+.shopspl{
+    width: 50px;
+    height: 30px;
+}
+body{
+    background: linear-gradient(to top, #D3D8E8 -2%, #ffffff 97%);
+}
+.th{
+    padding-top: 50px;
+    padding-left: 120px;
+}
+.type{
+    color: rgb(83, 102, 187);
+    font-size: 25px;
+}
+.prix{
+    font-weight: normal;
+}
+.input1{
+    background: #0a2ae4;
+    border-color: #612bdf #612bdf #612bdf;
+
+}
+.input{
+    font-size: 16px;
+    font-weight: bold;
+    background: #608dc7;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    border: 1px solid;
+    border-radius: 5px;  
+    margin-top: 5px;
+    color: aliceblue;
+    height: 35px;
+    width: 150px;
+}
+.droite{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.girl{
+    weight: 100px;
+    height:230px;
+}
+footer{
+    margin-top: 50px;
+    background: #ffffff;
+}
+.marque{
+    width: 70px;
+    height: 70px;
+}
+.button1{
+    width: 180px;
+    height: 90px;
+    color: cornflowerblue;
+    font-weight: bold;
+    border-radius: 15px;
+    background-color: rgb(20, 71, 112);
+}
+.ligne{
+    margin-left: 400px;
+    margin-top: 14px;
+}
+.ligne1{
+    margin-left: 550px;
+}
+.ligne2{
+    margin-top: 40px;
+}
